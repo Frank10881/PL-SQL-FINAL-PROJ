@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Loyalty Points & Rewards Automation System
 
 ## Project Overview
@@ -68,3 +69,7 @@ customer-loyalty-project/
 
 ## License
 This project is for educational purposes only as part of the Database Development with PL/SQL course at AUCA.
+=======
+# PL-SQL-FINAL-PROJ
+Final Project (Customer Royalty)
+>>>>>>> 52c146e62befcf7281cd59408664b7103e20e090
