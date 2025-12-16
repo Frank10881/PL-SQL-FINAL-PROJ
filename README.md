@@ -160,8 +160,7 @@ SELECT COUNT(*) FROM holidays;
 SELECT COUNT(*) FROM audit_log;
 ```
 
-![all tables](![loyalty_tables](https://github.com/user-attachments/assets/22bf8516-e007-4866-a629-ba927512a104)
-)
+![all tables](![loyalty_tables](https://github.com/user-attachments/assets/13e6dce6-adb2-4205-a3c0-1c769f128eaa)
 
 ---
 
