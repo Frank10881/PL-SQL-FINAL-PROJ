@@ -1,4 +1,4 @@
-# 🎯 Customer Loyalty Points & Rewards Automation System
+🎯 Customer Loyalty Points & Rewards Automation System
 
 ======================================================================
 
@@ -105,7 +105,7 @@ A **PL/SQL-based Customer Loyalty Points & Rewards Automation System** that:
 | AUDIT_LOG | System audit trail |
 
 ## 🧩 ER Diagram
-> ![ER DIAGRAM](screenshots/database_design/er_diagram.png)
+<img width="5366" height="3655" alt="Customer Loyalty Points-2025-12-19-103308" src="https://github.com/user-attachments/assets/bbe90788-2808-448a-aea3-0e5bf212990e" />
 
 ## ✅ Normalization
 1NF: Atomic values  
