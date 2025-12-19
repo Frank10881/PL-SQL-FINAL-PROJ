@@ -86,7 +86,8 @@ A **PL/SQL-based Customer Loyalty Points & Rewards Automation System** that:
 
 ## 📌 BPMN Diagram
 
-> ![BPMN diagram](screenshots/business_process/bpmn_diagram.png)
+> <img width="24719" height="10708" alt="Customer Loyalty System-2025-12-19-120135" src="https://github.com/user-attachments/assets/c7bf8b4f-687e-4ddc-bd37-c68dcd079638" />
+
 
 ---
 
