@@ -235,9 +235,9 @@ The system supports:
 - Reward redemption trends  
 - Customer lifetime value calculations  
 
-**Dashboard**
-![Dashboard](screenshots/bi_dashboards/loyalty_dashboard.png)
-
+**project presantation**
+[Customer Loyalty Points & Rewards Automation System.pptx](https://github.com/user-attachments/files/24279230/Customer.Loyalty.Points.Rewards.Automation.System.pptx)
+ ]
 ---
 
 ## 🧠 Key Achievements
